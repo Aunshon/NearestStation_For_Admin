@@ -21,6 +21,7 @@
                 android:layout_height="wrap_content"
                 android:text="Viclel"
                 android:id="@+id/v"
+                android:textColor="@color/white"
                 />
         </LinearLayout>
         <LinearLayout
@@ -33,6 +34,7 @@
                 android:layout_height="wrap_content"
                 android:hint="time"
                 android:id="@+id/t"
+                android:textColor="@color/white"
                 />
         </LinearLayout>
         <LinearLayout
@@ -45,6 +47,7 @@
                 android:layout_height="wrap_content"
                 android:hint="destination"
                 android:id="@+id/d"
+                android:textColor="@color/white"
                 />
         </LinearLayout>
     </LinearLayout>
